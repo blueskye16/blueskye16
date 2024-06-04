@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/fabianus-kevin-406285231/"><img src="https://img.shields.io/badge/Linkedin-8A2BE2?logo=linkedin&logoColor=blue&color=white" title="Linkedin" alt="Linkedin" /></a>
 &nbsp;
-<a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Github-8A2BE2?logo=github&logoColor=black&color=white" title="Github" alt="Github" /></a>
+<a href="emailto:fabianuskevin147@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&labelColor=white" title="Gmail" alt="Gmail" /></a>
 &nbsp;
 <a href="https://www.instagram.com/fkvin_/"><img src="https://img.shields.io/badge/Instagram-8A2BE2?logo=Instagram&logoColor=purple&color=white" title="Instagram" alt="Instagram" /></a>
 &nbsp;
@@ -13,12 +13,14 @@
 
 Beside that, I really enjoy processing data using several tools such as SQL, spreadsheets and Tableau. I think I will never get tired of getting valuable information from data to process it into more valuable information.
 
+> [!TIP]
+> _Use destkop/laptop for better reading experience_
 ___  
 
 <!-- EDU SECTION -->
 
 <h3 align="center">
-  <a name="non-formal-education"></a>Non Formal Education</a>
+  <a name="non-formal-education"></a>Non Formal Education 🎓</a>
 </h3>
 
 <p align="center">As students, of course we are required to always study. Therefore, I always strive to gain knowledge and insight that is useful for my career. Here are some of them</p>
@@ -48,7 +50,7 @@ ___
 <!-- SKILSS & TOOLS SECTION -->
 
 <h3 align="center">
-  <a name="skilss-and-tools">Skilss and Tools</a>
+  <a name="skilss-and-tools">Skilss and Tools 💡</a>
 </h3>
 
 <p align="center">
@@ -113,7 +115,7 @@ ___
 <!-- PROJECT SECTION -->
 
 <h3 align="center">
-  <a name="my-project">My Project</a>
+  <a name="my-project">My Project 📂</a>
 </h3>
 
 <p align="center">
@@ -166,7 +168,7 @@ ___
 <!-- CERTIFICATION SECTION -->
 
 <h3 align="center">
-  <a name="my-certification">Certification</a>
+  <a name="my-certification">Certification 💎</a>
 </h3>
 
 <p align="center">Even though it is not a complete measure of someone's abilities, these are some of the certification achievements that I have obtained</p>
