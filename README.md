@@ -1,5 +1,14 @@
 ## Hi There! 👋 I'm Kevin.
 
+<a href="https://www.linkedin.com/in/fabianus-kevin-406285231/"><img src="https://img.shields.io/badge/Linkedin-8A2BE2?logo=linkedin&logoColor=blue&color=white" title="Linkedin" alt="Linkedin" /></a>
+&nbsp;
+<a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Github-8A2BE2?logo=github&logoColor=black&color=white" title="Github" alt="Github" /></a>
+&nbsp;
+<a href="https://www.instagram.com/fkvin_/"><img src="https://img.shields.io/badge/Instagram-8A2BE2?logo=Instagram&logoColor=purple&color=white" title="Instagram" alt="Instagram" /></a>
+&nbsp;
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%40kepinh_-8A2BE2?logo=Discord&logoColor=blue&color=white" title="Discord" alt="Discord" /></a>
+&nbsp;
+
 <p align="justify">An Software Engineer student who loves to create and share projects about web and data processing technology! I've enjoyed Working on website projects, about how to develop a website that more interactive and in line with user needs.</p>
 
 Beside that, I really enjoy processing data using several tools such as SQL, spreadsheets and Tableau. I think I will never get tired of getting valuable information from data to process it into more valuable information.
@@ -184,19 +193,6 @@ ___
 > [!NOTE]
 > _For certification details please click the picture_
 
-___
-
-### Reach me on
-
-<a href="https://www.linkedin.com/in/fabianus-kevin-406285231/"><img src="https://img.shields.io/badge/Linkedin-8A2BE2?logo=linkedin&logoColor=blue&color=white" title="Linkedin" alt="Linkedin" /></a>
-&nbsp;
-<a href="https://github.com/blueskye16"><img src="https://img.shields.io/badge/Github-8A2BE2?logo=github&logoColor=black&color=white" title="Github" alt="Github" /></a>
-&nbsp;
-<a href="https://www.instagram.com/fkvin_/"><img src="https://img.shields.io/badge/Instagram-8A2BE2?logo=Instagram&logoColor=purple&color=white" title="Instagram" alt="Instagram" /></a>
-&nbsp;
-<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%40kepinh_-8A2BE2?logo=Discord&logoColor=blue&color=white" title="Discord" alt="Discord" /></a>
-&nbsp;
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [intro_anchor]: #intro--
@@ -204,5 +200,3 @@ ___
 [skilss_and_tools_anchor]: #skilss-and-tools
 [my_certification_anchor]: #my-certification
 [my_project_anchor]: #my-project
-[volunteer_organization_anchor]: #volunteer-organization
-[social_media_anchor]: #social-media
