@@ -14,7 +14,7 @@ ___
 
 <p align="center">As students, of course we are required to always study. Therefore, I always strive to gain knowledge and insight that is useful for my career. Here are some of them</p>
 
-#### MSIB Studi Independen Dicoding
+<h4>MSIB Studi Independen Dicoding<a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" title="See Certificate"> ☑️</a></h4>
 
 ##### Front End Web and Back End Training | Agustus 2023 - Desember 2023
 
@@ -24,7 +24,7 @@ ___
 > - Create web front-end applications with ES6 standard JavaScript code, implement Web Components, Webpack and display dynamic data from Web API using AJAX
 > - Build front-end web applications that are responsive, easy to maintain, have native properties, can be tested and have good performance
 
-#### RevoU Mini Course
+<h4>Revou Mini Course <a href="https://drive.google.com/file/d/1vfHp8_zdITi1gYkDLNIwyaCEgMOGPyBD/view?usp=drive_link" title="See Certificate"> ☑️</a></h4>
 
 ##### Data Analytic Program | May 2024
 
