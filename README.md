@@ -149,7 +149,7 @@ ___
 
 <a href="https://time-calc.000webhostapp.com/" target="_blank"><img src="https://img.shields.io/badge/Visit-0A9812" title="Visit" alt="Visit Time Calc Web" height="25" /></a>
 &nbsp;
-<a href="https://github.com/time-calculator" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="Time Calc Repo" height="25" /></a>
+<a href="https://github.com/blueskye16/time-calculator" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="Time Calc Repo" height="25" /></a>
 &nbsp;
 
 - TMDB Movies
@@ -160,7 +160,7 @@ ___
 
 <a href="https://main-web-movies.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit-0A9812" title="Visit" alt="Visit TMDB Movies Web" height="25" /></a>
 &nbsp;
-<a href="https://github.com/main-web-movies" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="TMDB Movies Repo" height="25" /></a>
+<a href="https://github.com/blueskye16/main-web-movies" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="TMDB Movies Repo" height="25" /></a>
 &nbsp;
 
 ___ 
