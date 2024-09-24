@@ -147,7 +147,7 @@ ___
 
 <p>Time calculator is an independent project I developed with the main function to calculate time based on hours and minutes. This simple project was created with Vanilla JavaScript using the Bootstrap framework.</p>
 
-<a href="https://time-calc.000webhostapp.com/" target="_blank"><img src="https://img.shields.io/badge/Visit-0A9812" title="Visit" alt="Visit Time Calc Web" height="25" /></a>
+<a href="https://time-calculator-iota.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit-0A9812" title="Visit" alt="Visit Time Calc Web" height="25" /></a>
 &nbsp;
 <a href="https://github.com/blueskye16/time-calculator" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="Time Calc Repo" height="25" /></a>
 &nbsp;
