@@ -1,7 +1,5 @@
 ## Hi There! 👋 I'm Kevin.
 
-https://tech-academy-revou.softr.app/course-selection#
-
 <a href="https://www.linkedin.com/in/fabianus-kevin-406285231/"><img src="https://img.shields.io/badge/Linkedin-8A2BE2?logo=linkedin&logoColor=blue&color=white" title="Linkedin" alt="Linkedin" /></a>
 &nbsp;
 <a href="emailto:fabianuskevin147@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&labelColor=white" title="Gmail" alt="Gmail" /></a>
