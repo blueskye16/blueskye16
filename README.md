@@ -117,15 +117,24 @@ ___
 
 - Data Visualization Using Tableau
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/RevoU-Dash-Penduduk_Kab.png" title="RevoU Data Analyst Project" alt="RevoU Data Analyst Project" width="30%"/>
+<img src="https://github.com/blueskye16/blueskye16/blob/main/images/RevoU-Dash-Penduduk_Kab.png" title="RevoU Data Analyst Project" alt="RevoU Data Analyst Project" width="30%"/>
 
 <p width="90%">This project is one of the tasks when participating in RevoU Data Analyst activities. By analyzing <b>Health facilities and health insurance in West Java Regency.</b> I used the Tableau Public application to find insights from the analyzed data, so that several new insights were discovered which were then visualized on the Tableau Public website.</p>
 
 <a href="https://public.tableau.com/app/profile/fabianus.senduk/viz/JumlahFaskesJaminanKesehatanJabar-MiniCourseRevoU/Dash-PendudukKab" target="_blank"><img src="https://img.shields.io/badge/Visit-0A9812" title="Visit" alt="Visit JadwalPlus Web" height="25" /></a>
 
+- US Regional Sales Visualization
+
+<img src="https://github.com/blueskye16/blueskye16/blob/main/images/Dashboard-PowerBI-Stupen-RevoU.png" title="Time Calculator Project" alt="Time Calculator Project" width="50%">
+
+<p>This is a group project undertaken during the revou independent study. Using Google Sheets and Power BI technology for data cleaning, analysis and visualisation. Although I haven't published the dashboard yet, I have completed this learning through a certificate of completion of the program.</p>
+
+<a href="https://drive.google.com/file/d/1_PmHKL1wljE6DuBY0Q63Pz9yAiprRVjw/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Certificate-0A9812" title="Certificate" alt="Visit Time Calc Web" height="25" /></a>
+&nbsp;
+
 - JadwalPlus
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/jadwalPlus.png" title="JadwalPlus Project" alt="JadwalPlus Project" width="50%">
+<img src="https://github.com/blueskye16/blueskye16/blob/main/images/jadwalPlus.png" title="JadwalPlus Project" alt="JadwalPlus Project" width="50%">
 
 <p>JadwalPlus is a website designed to manage activities. This website was designed together with the team while participating in the Independent Coding Study. We use several technologies such as React, Vite, Mongo DB and Tailwind to design websites. JadwalPlus has features such as user login / register, schedule CRUD, schedule search, and account control to delete or change passwords.</p>
 
@@ -134,20 +143,9 @@ ___
 <a href="https://github.com/mengcapstone" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="Time JadwalPlus Repo" height="25" /></a>
 &nbsp;
 
-- Time Calculator
-
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/time-calculator.png" title="Time Calculator Project" alt="Time Calculator Project" width="50%">
-
-<p>Time calculator is an independent project I developed with the main function to calculate time based on hours and minutes. This simple project was created with Vanilla JavaScript using the Bootstrap framework.</p>
-
-<a href="https://time-calculator-iota.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit-0A9812" title="Visit" alt="Visit Time Calc Web" height="25" /></a>
-&nbsp;
-<a href="https://github.com/blueskye16/time-calculator" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20Repo-0A9812" title="Go to Repo" alt="Time Calc Repo" height="25" /></a>
-&nbsp;
-
 - TMDB Movies
 
-<img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/images/tmdb-movies.png" title="TMDB Movies Project" alt="TMDB Movies Project" width="50%">
+<img src="https://github.com/blueskye16/blueskye16/blob/main/images/tmdb-movies.png" title="TMDB Movies Project" alt="TMDB Movies Project" width="50%">
 
 <p>TMDB Movies is a website created using the API from the official TMDB website. Designed using Webpack, Bootstrap, and Jquery. Allows users to find films contained in the TMDB database.</p>
 
@@ -172,7 +170,7 @@ ___
       <a href="https://drive.google.com/file/d/1znx2uOWJK-msQ7SKP84Q_YfhRebhjgt2/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/wSize-Dicoding AWS_page-0001.jpg" title="AWS Certification Dicoding" alt="AWS Certification Dicoding" width="50%"/></a>
     </td>
     <td>
-      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" title="Front End Web and Back End" alt="Front End Web and Back End" width="50%"></a>
+      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/blueskye16/blob/main/sertif/stupen-dicoding/Fabianus Kevin Senduk (1).jpg" title="Front End Web and Back End" alt="Front End Web and Back End" width="50%"></a>
     </td>
   </tr>
   <tr align="center">
