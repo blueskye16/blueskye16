@@ -23,8 +23,6 @@ ___
   <a name="non-formal-education"></a>Non Formal Education 🎓</a>
 </h3>
 
-<p align="center">As students, of course we are required to always study. Therefore, I always strive to gain knowledge and insight that is useful for my career. Here are some of them</p>
-
 <h4>MSIB Studi Independen Dicoding<a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" title="See Certificate"> ☑️</a></h4>
 
 ##### Front End Web and Back End Training | Agustus 2023 - Desember 2023
@@ -35,15 +33,15 @@ ___
 > - Create web front-end applications with ES6 standard JavaScript code, implement Web Components, Webpack and display dynamic data from Web API using AJAX
 > - Build front-end web applications that are responsive, easy to maintain, have native properties, can be tested and have good performance
 
-<h4>Revou Mini Course <a href="https://drive.google.com/file/d/1vfHp8_zdITi1gYkDLNIwyaCEgMOGPyBD/view?usp=drive_link" title="See Certificate"> ☑️</a></h4>
+<h4>MSIB Studi Independen Revou<a href="https://drive.google.com/file/d/1_PmHKL1wljE6DuBY0Q63Pz9yAiprRVjw/view?usp=sharing" title="See Certificate"> ☑️</a></h4>
 
-##### Data Analytic Program | May 2024
+##### Data Analytics and Gen AI | September - December 2024
 
-> In this data analysis training with RevoU MiniCourse, I learned and practiced the various requirements needed as a data analyst using SQL, Bigquery and Tableau Public. Here are the details:
+> In this data analysis independent study with RevoU, I learned and practiced the various requirements needed as a data analyst using SQL, Bigquery and Power BI. Here are the details:
 > - Learn about the steps to implement data analysis in various fields and gain insights for business needs
 > - Process data using SQL Bigquery, prepare datasets and convert them into valuable information
-> - Understand various types of data visualization and practice data visualization using Tableau Public
-> - Case study processing health data in West Java district using Tableau Public data visualization
+> - Understand various types of data visualization and practice data visualization using Power BI
+> - Case study using dummy data and produce meaningful visualization
 
 ___ 
 
@@ -60,9 +58,9 @@ ___
 
 <h4>Technologies and Tools</h4>
 
-[<img src="https://img.shields.io/badge/VS%20code-282C30?logo=visual%20studio%20code&logoColor=blue" alt="VS code logo" title="VsCode" height="25" />][skilss_and_tools_anchor]
+[<img src="https://img.shields.io/badge/Vscode-282C30.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KPHBhdGggZmlsbD0iIzI5YjZmNiIgZD0iTTQ0LDExLjExdjI1Ljc4YzAsMS4yNy0wLjc5LDIuNC0xLjk4LDIuODJsLTguODIsNC4xNEwzNCwzM1YxNUwzMy4yLDQuMTVsOC44Miw0LjE0IEM0My4yMSw4LjcxLDQ0LDkuODQsNDQsMTEuMTF6Ij48L3BhdGg+PHBhdGggZmlsbD0iIzAyNzdiZCIgZD0iTTksMzMuODk2TDM0LDE1VjUuMzUzYzAtMS4xOTgtMS40ODItMS43NTgtMi4yNzUtMC44Nkw0LjY1OCwyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ij48L3BhdGg+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzdjkuNjQ3YzAsMS4xOTgtMS40ODIsMS43NTgtMi4yNzUsMC44Nkw0LjY1OCwxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ij48L3BhdGg+Cjwvc3ZnPg==" alt="VS code logo" title="VsCode" height="25" />][skilss_and_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/XAMPP-282C30?logo=xampp" alt="XAMPP logo" title="XAMPP" height="25" />][skilss_and_tools_anchor]
+[<img src="https://img.shields.io/badge/Git-282C30?logo=git&logoColor=orange" alt="Git logo" title="Git" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/html-282C30?logo=html5&logoColor=orange" alt="HTML logo" title="HTML" height="25" />][skilss_and_tools_anchor]
 &nbsp;
@@ -70,26 +68,21 @@ ___
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C30?logo=javascript&logoColor=yellow" alt="JavaScript logo" title="JavaScript" height="25" />][skilss_and_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C30?logo=php" alt="PHP logo" title="PHP" height="25" />][skilss_and_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-282C30?logo=python" alt="Python logo" title="Python" height="25" />][skilss_and_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Git-282C30?logo=git&logoColor=orange" alt="Git logo" title="Git" height="25" />][skilss_and_tools_anchor]
+[<img src="https://img.shields.io/badge/XAMPP-282C30?logo=xampp" alt="XAMPP logo" title="XAMPP" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 
 <h4>Data Processing and Vizualitation</h4>
 
+[<img src="https://img.shields.io/badge/Google_Sheets-282C30.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KPHBhdGggZmlsbD0iIzQzYTA0NyIgZD0iTTM3LDQ1SDExYy0xLjY1NywwLTMtMS4zNDMtMy0zVjZjMC0xLjY1NywxLjM0My0zLDMtM2gxOWwxMCwxMHYyOUM0MCw0My42NTcsMzguNjU3LDQ1LDM3LDQ1eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNjOGU2YzkiIGQ9Ik00MCAxM0wzMCAxMyAzMCAzeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMyZTdkMzIiIGQ9Ik0zMCAxM0w0MCAyMyA0MCAxM3oiPjwvcGF0aD48cGF0aCBmaWxsPSIjZThmNWU5IiBkPSJNMzEsMjNIMTdoLTJ2MnYydjJ2MnYydjJ2MmgxOHYtMnYtMnYtMnYtMnYtMnYtMnYtMkgzMXogTTE3LDI1aDR2MmgtNFYyNXogTTE3LDI5aDR2MmgtNFYyOXogTTE3LDMzaDR2MmgtNFYzM3ogTTMxLDM1aC04di0yaDhWMzV6IE0zMSwzMWgtOHYtMmg4VjMxeiBNMzEsMjdoLTh2LTJoOFYyN3oiPjwvcGF0aD4KPC9zdmc+" alt="Google Sheets" title="Google Sheets" height="25" />][skilss_and_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/My%20Sql-282C30?logo=mysql" alt="My Sql logo" title="MySql" height="25" />][skilss_and_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Microsoft%20Excel-282C30?logo=microsoft%20excel&logoColor=rgb(4%2C%20124%2C%204)" alt="Microsoft Excel logo" title="MsExcel" height="25" />][skilss_and_tools_anchor]
+[<img src="https://img.shields.io/badge/Tableau-282C30.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KPHJlY3Qgd2lkdGg9IjEuNSIgaGVpZ2h0PSI5IiB4PSIyMi43NSIgeT0iMSIgZmlsbD0iIzc4OTA5YyI+PC9yZWN0PjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjEuNSIgeD0iMTkiIHk9IjQuNzUiIGZpbGw9IiM3ODkwOWMiPjwvcmVjdD48cmVjdCB3aWR0aD0iMS41IiBoZWlnaHQ9IjkiIHg9IjQwLjc1IiB5PSIxOSIgZmlsbD0iIzVjNmJjMCI+PC9yZWN0PjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjEuNSIgeD0iMzciIHk9IjIyLjc1IiBmaWxsPSIjNWM2YmMwIj48L3JlY3Q+PHJlY3Qgd2lkdGg9IjEuNSIgaGVpZ2h0PSI5IiB4PSI0Ljc1IiB5PSIxOSIgZmlsbD0iIzc4OTA5YyI+PC9yZWN0PjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjEuNSIgeD0iMSIgeT0iMjIuNzUiIGZpbGw9IiM3ODkwOWMiPjwvcmVjdD48cmVjdCB3aWR0aD0iMS41IiBoZWlnaHQ9IjkiIHg9IjIyLjc1IiB5PSIzNyIgZmlsbD0iIzVjNmJjMCI+PC9yZWN0PjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjEuNSIgeD0iMTkiIHk9IjQwLjc1IiBmaWxsPSIjNWM2YmMwIj48L3JlY3Q+PHJlY3Qgd2lkdGg9IjE3IiBoZWlnaHQ9IjMiIHg9IjE1IiB5PSIyMiIgZmlsbD0iI2U4NzYyZCI+PC9yZWN0PjxyZWN0IHdpZHRoPSIzIiBoZWlnaHQ9IjE3IiB4PSIyMiIgeT0iMTUiIGZpbGw9IiNlODc2MmQiPjwvcmVjdD48cmVjdCB3aWR0aD0iMiIgaGVpZ2h0PSIxNCIgeD0iMTEiIHk9IjYiIGZpbGw9IiNmZmEwMDAiPjwvcmVjdD48cmVjdCB3aWR0aD0iMTQiIGhlaWdodD0iMiIgeD0iNSIgeT0iMTIiIGZpbGw9IiNmZmEwMDAiPjwvcmVjdD48cmVjdCB3aWR0aD0iMiIgaGVpZ2h0PSIxNCIgeD0iMzQiIHk9IjYiIGZpbGw9IiM2MDdkOGIiPjwvcmVjdD48cmVjdCB3aWR0aD0iMTQiIGhlaWdodD0iMiIgeD0iMjgiIHk9IjEyIiBmaWxsPSIjNjA3ZDhiIj48L3JlY3Q+PHJlY3Qgd2lkdGg9IjIiIGhlaWdodD0iMTQiIHg9IjExIiB5PSIyNyIgZmlsbD0iI2M2MjgyOCI+PC9yZWN0PjxyZWN0IHdpZHRoPSIxNCIgaGVpZ2h0PSIyIiB4PSI1IiB5PSIzMyIgZmlsbD0iI2M2MjgyOCI+PC9yZWN0PjxyZWN0IHdpZHRoPSIyIiBoZWlnaHQ9IjE0IiB4PSIzNCIgeT0iMjciIGZpbGw9IiMwZDQ3YTEiPjwvcmVjdD48cmVjdCB3aWR0aD0iMTQiIGhlaWdodD0iMiIgeD0iMjgiIHk9IjMzIiBmaWxsPSIjMGQ0N2ExIj48L3JlY3Q+Cjwvc3ZnPg==" alt="Tableau logo" title="Tableau" height="25" />][skilss_and_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tableau-282C30?logo=tableau" alt="Tableau logo" title="Tableau" height="25" />][skilss_and_tools_anchor]
-&nbsp;
+[<img src="https://img.shields.io/badge/Power_BI-282C30.svg?logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjAwIDE2MDAiPjxtYXNrIGlkPSJwcmVmaXhfX2EiIHN0eWxlPSJtYXNrLXR5cGU6YWxwaGEiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjIwMCIgeT0iMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iMTYwMCI+PHBhdGggZD0iTTEzMzMuMjUgMGMzNi44NiAwIDY2Ljc1IDI5Ljg4NSA2Ni43NSA2Ni43NXYxNDY2LjVjMCAzNi44Ni0yOS44OSA2Ni43NS02Ni43NSA2Ni43NUgyNjYuNjY3Yy0zNi44MTkgMC02Ni42NjctMjkuODUtNjYuNjY3LTY2LjY3Vjg2Ni42NjdDMjAwIDgyOS44NDggMjI5Ljg0OCA4MDAgMjY2LjY2NyA4MDBINTI1VjQ2Ni42NjdDNTI1IDQyOS44NDggNTU0Ljg0OCA0MDAgNTkxLjY2NyA0MDBIODUwVjY2Ljc1Qzg1MCAyOS44ODUgODc5Ljg4NSAwIDkxNi43NSAwaDQxNi41eiIgZmlsbD0iI2ZmZiIvPjwvbWFzaz48ZyBtYXNrPSJ1cmwoI3ByZWZpeF9fYSkiPjxwYXRoIGQ9Ik0xNDAwIDY2Ljc1djE0NjYuNWMwIDM2Ljg2LTI5Ljg5IDY2Ljc1LTY2Ljc1IDY2Ljc1aC00MTYuNWMtMzYuODY1IDAtNjYuNzUtMjkuODktNjYuNzUtNjYuNzVWNjYuNzVDODUwIDI5Ljg4NSA4NzkuODg1IDAgOTE2Ljc1IDBoNDE2LjVjMzYuODcgMCA2Ni43NSAyOS44ODUgNjYuNzUgNjYuNzV6IiBmaWxsPSJ1cmwoI3ByZWZpeF9fcGFpbnQwX2xpbmVhcl84NTkyOjU2MTk4KSIvPjxnIGZpbHRlcj0idXJsKCNwcmVmaXhfX2ZpbHRlcjBfZGRfODU5Mjo1NjE5OCkiPjxwYXRoIGQ9Ik0xMDc1IDQ2Ni42NjdWMTYwMEg1MjVWNDY2LjY2N0M1MjUgNDI5Ljg0OCA1NTQuODQ4IDQwMCA1OTEuNjY3IDQwMGg0MTYuNjYzYzM2LjgyIDAgNjYuNjcgMjkuODQ4IDY2LjY3IDY2LjY2N3oiIGZpbGw9InVybCgjcHJlZml4X19wYWludDFfbGluZWFyXzg1OTI6NTYxOTgpIi8+PC9nPjxwYXRoIGQ9Ik0yMDAgODY2LjY2N3Y2NjYuNjYzYzAgMzYuODIgMjkuODQ4IDY2LjY3IDY2LjY2NyA2Ni42N0g3NTBWODY2LjY2N0M3NTAgODI5Ljg0OCA3MjAuMTUyIDgwMCA2ODMuMzMzIDgwMEgyNjYuNjY3QzIyOS44NDggODAwIDIwMCA4MjkuODQ4IDIwMCA4NjYuNjY3eiIgZmlsbD0idXJsKCNwcmVmaXhfX3BhaW50Ml9saW5lYXJfODU5Mjo1NjE5OCkiLz48L2c+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJwcmVmaXhfX3BhaW50MF9saW5lYXJfODU5Mjo1NjE5OCIgeDE9Ijc1OC4zMzMiIHkxPSIwIiB4Mj0iMTQ0Ny44MiIgeTI9IjE1MDcuMTUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjRTZBRDEwIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjQzg3RTBFIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InByZWZpeF9fcGFpbnQxX2xpbmVhcl84NTkyOjU2MTk4IiB4MT0iNTI0Ljk1NSIgeTE9IjQwMCIgeDI9IjExMDUuNzkiIHkyPSIxNTYxLjY3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0iI0Y2RDc1MSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0U2QUQxMCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJwcmVmaXhfX3BhaW50Ml9saW5lYXJfODU5Mjo1NjE5OCIgeDE9IjE5OS45NTUiIHkxPSI4MDAiIHgyPSI1MTkuNzg0IiB5Mj0iMTU4MS42OCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiNGOUU1ODkiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGNkQ3NTEiLz48L2xpbmVhckdyYWRpZW50PjxmaWx0ZXIgaWQ9InByZWZpeF9fZmlsdGVyMF9kZF84NTkyOjU2MTk4IiB4PSIzOTEuNjY3IiB5PSIzMDAiIHdpZHRoPSI4MTYuNjY3IiBoZWlnaHQ9IjE0NjYuNjciIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj48ZmVGbG9vZCBmbG9vZC1vcGFjaXR5PSIwIiByZXN1bHQ9IkJhY2tncm91bmRJbWFnZUZpeCIvPjxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VBbHBoYSIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAxMjcgMCIgcmVzdWx0PSJoYXJkQWxwaGEiLz48ZmVPZmZzZXQgZHk9IjYuMzMzIi8+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNi4zMzMiLz48ZmVDb2xvck1hdHJpeCB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAuMiAwIi8+PGZlQmxlbmQgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93Xzg1OTI6NTYxOTgiLz48ZmVDb2xvck1hdHJpeCBpbj0iU291cmNlQWxwaGEiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMTI3IDAiIHJlc3VsdD0iaGFyZEFscGhhIi8+PGZlT2Zmc2V0IGR5PSIzMy4zMzMiLz48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI2Ni42NjciLz48ZmVDb2xvck1hdHJpeCB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAuMTggMCIvPjxmZUJsZW5kIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93Xzg1OTI6NTYxOTgiIHJlc3VsdD0iZWZmZWN0Ml9kcm9wU2hhZG93Xzg1OTI6NTYxOTgiLz48ZmVCbGVuZCBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJlZmZlY3QyX2Ryb3BTaGFkb3dfODU5Mjo1NjE5OCIgcmVzdWx0PSJzaGFwZSIvPjwvZmlsdGVyPjwvZGVmcz48L3N2Zz4=" alt="Power BI Logo" title="Power BI" height="25">][skilss_and_tools_anchor]
 
 <h4>Digital Marketing</h4>
 
-[<img src="https://img.shields.io/badge/Wordpress-282C30?logo=wordpress&logoColor=blue" alt="Wordpress logo" title="Wordpress" height="25" />][skilss_and_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Odoo-282C30?logo=odoo&logoColor=rgb(202%2C%2016%2C%20202)" alt="Odoo logo" title="Odoo" height="25" />][skilss_and_tools_anchor]
 &nbsp;
 
