@@ -170,7 +170,7 @@ ___
       <a href="https://drive.google.com/file/d/1znx2uOWJK-msQ7SKP84Q_YfhRebhjgt2/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/vin-buat-portofolio/blob/main/sertif/dicoding-aws/wSize-Dicoding AWS_page-0001.jpg" title="AWS Certification Dicoding" alt="AWS Certification Dicoding" width="50%"/></a>
     </td>
     <td>
-      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/blueskye16/blob/main/sertif/stupen-dicoding/Fabianus Kevin Senduk (1).jpg" title="Front End Web and Back End" alt="Front End Web and Back End" width="50%"></a>
+      <a href="https://drive.google.com/file/d/1NE7wXhl2Nm93qgjiL3k4Cp3qJMclDQad/view?usp=drive_link" target="_blank"><img src="https://github.com/blueskye16/blueskye16/blob/main/sertif/stupen-dicoding/[SIB Cycle 5] Sertifikat - F182YB161_page-0001.jpg" title="Front End Web and Back End" alt="Front End Web and Back End tester" width="50%"></a>
     </td>
   </tr>
   <tr align="center">
